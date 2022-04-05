@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yash251
+- 👋 Hi, I’m Yash Jagtap!
 - 👀 I’m interested in blockchain and quantum related based technologies.
 - 🌱 I’m currently learning blockchain development.
-- 💞️ I’m looking to collaborate on any project in my domain interests.
+- 🤝 I’m looking to collaborate on any project in my domain interests.
 - 📫 How to reach me - https://www.linktr.ee/jagtapyash2512
 
 
