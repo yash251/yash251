@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yash Jagtap!
+- 👋 Hi, I’m Yash Jagtap
 - 👀 I’m interested in blockchain technology and all web3 products.
 - 🌱 I’m currently learning blockchain development.
 - 🤝 I’m looking to collaborate on any project in my domain interests.
